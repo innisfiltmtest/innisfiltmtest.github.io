@@ -2,7 +2,7 @@ backend:
   name: github
   repo: innisfiltmtest/innisfiltmtest.github.io
   branch: master
-  site_domain: https://vigilant-mestorf-78d9a3.netlify.app
+  site_domain: https://cranky-babbage-edb72d.netlify.app/
 
 media_folder: "images/uploads"
 
